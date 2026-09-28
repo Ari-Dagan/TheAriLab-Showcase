@@ -1,10 +1,10 @@
 # TheAriLab
 
-A full-stack playground for app requests, games, and AI tools. I built the frontend with Angular 21, the Python services with FastAPI, and the data layer with PostgreSQL on Supabase. The frontend runs on Vercel and backend services on Railway.
+A full-stack playground for app requests, games, and AI tools, built by Ari with AI assistance. The frontend uses Angular 21, the Python services use FastAPI, and the data layer uses PostgreSQL on Supabase. The frontend runs on Vercel and backend services on Railway.
 
 Live site: https://thearilab.com (account required for most features)
 
-## What I built
+## What the project includes
 
 - A request flow where friends and family can propose app ideas and track them.
 - YourFundAI, a multi-agent stock analysis pipeline built with LangGraph and an Anthropic model. It orchestrates six parallel agents, streams progress to the UI, and generates PDF reports. Its output is exploratory, not financial advice.
@@ -29,4 +29,4 @@ The frontend is organized into feature areas. The Python services are separate F
 
 ## Showcase status
 
-This repository is a case study, not a copy of the private production repository. Screenshots, an architecture diagram, and selected code samples can be added only after checking for secrets, private user data, third-party rights, and deployment-specific configuration. The production repo remains private.
+This repository is a text-only case study, not a copy of the private production repository. It contains no screenshots, production code, or third-party assets. The production repo remains private.
